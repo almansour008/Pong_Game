@@ -50,7 +50,7 @@ dev.color("purple")
 dev.penup()
 dev.hideturtle()
 dev.goto(0,-260)
-dev.write("This Game Developed By (Ahmad Alkhudr-Muhamad Haj Mousa)",align="center",font=("Courier",12,"normal"))
+dev.write("This Game Developed By (Ahmad Alkhudr)",align="center",font=("Courier",12,"normal"))
 
 #functions
 def madrab1_up():
